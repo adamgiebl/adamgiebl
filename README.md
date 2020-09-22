@@ -1,1 +1,3 @@
-![alt text](https://adamgiebl.best/portfolio/copenhagen.a41e1943.jpg)
+[Instagram](https://www.instagram.com/adamgiebl.io/)
+[Dribble](https://dribbble.com/Giebl)
+[Neumorphism.io](https://neumorphism.io/#55b9f3)
