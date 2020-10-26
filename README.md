@@ -6,4 +6,5 @@
 
 - [Instagram](https://www.instagram.com/adamgiebl.io/)  
 - [Dribble](https://dribbble.com/Giebl)  
+- [LinkedIn](https://www.linkedin.com/in/adam-giebl-391325186/)
 
