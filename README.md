@@ -5,7 +5,7 @@
 
 ## Social media
 
-- [Instagram](https://www.instagram.com/adamgiebl.io/)  
-- [Dribble](https://dribbble.com/Giebl)  
+- [Instagram](https://www.instagram.com/adamgiebl.io/)
+- [Instagram - cssbuttons.io](https://www.instagram.com/cssbuttons.io/)
 - [LinkedIn](https://www.linkedin.com/in/adam-giebl-391325186/)
 
