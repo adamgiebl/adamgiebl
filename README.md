@@ -1,3 +1,5 @@
+<img src="https://adamgiebl.github.io/adamgiebl/github-cover.png" width="100%"/>
+
 ## Projects
 
 - [neumorphism.io](https://neumorphism.io/#55b9f3) - CSS code generator for a new popular design trend called Neumorphism (Soft UI). Helps designers and developers experiment with it and possibly adapt it. Featured on [CSS-tricks](https://css-tricks.com/neumorphism-io/).
