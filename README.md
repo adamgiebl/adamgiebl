@@ -1,4 +1,4 @@
-<img src="https://adamgiebl.github.io/adamgiebl/github-cover.png" width="100%"/>
+<img src="https://adamgiebl.github.io/adamgiebl/cover-github.png" width="100%"/>
 
 ## Projects
 
