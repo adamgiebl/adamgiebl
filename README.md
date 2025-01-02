@@ -1,4 +1,4 @@
-<img src="./pixel.gif" alt="Pixel art" style="width: 100%" />
+<img src="./pixel.gif" alt="Pixel art" width="600" />
 
 ### Projects
 
