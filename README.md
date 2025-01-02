@@ -1,4 +1,4 @@
-<img src="https://adamgiebl.github.io/adamgiebl/cover-github.png" width="100%"/>
+<img src="./city.gif" alt="Coding" align="right" width="400" />
 
 ## Projects
 
